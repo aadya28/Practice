@@ -1,3 +1,5 @@
+//Program to read text from a file and create methods to access individual words and lines.
+
 import java.util.Scanner;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
