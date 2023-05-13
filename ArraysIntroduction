@@ -1,0 +1,15 @@
+Introduction to Arrays and ArrayList
+
+Syntax for declaration of an Array.
+datatype[] var_name = new datatype[size];
+
+For example to define an array of 5 roll numbers
+int[] rollNos = new int[5]; or
+int[] rollNos2 = {1,2,3,4,5};
+int[] ros Declaration : ros is getting defined in the stack.
+This happens at compile time.
+
+ros = new int[5] Initialisation : here is the object being created in the memory (heap)
+This happens at runtime.(Dynamic memory allocation)
+
+Null is a special literal that is the default value of any declared variable.
